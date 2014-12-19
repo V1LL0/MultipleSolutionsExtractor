@@ -1,0 +1,13 @@
+#ciao quuesto è un commento seguito da una riga vuota
+
+USER=root
+   	
+ 
+		
+
+PASSWORD=giantsquid
+DB_URL=localhost
+DB_NAME=WekaAnalysis
+
+	#fine del file di configurazione
+

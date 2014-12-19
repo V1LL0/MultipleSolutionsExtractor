@@ -1,0 +1,6 @@
+FILE in Examination: /home/massimo/Desktop/DATA-SETS_TO_USE/AlzOldWeka.csv
+Time: 18/11/2014 - 14:42
+Finished file: /home/massimo/Desktop/DATA-SETS_TO_USE/AlzOldWeka.csv
+Time: 18/11/2014 - 14:45
+FILE in Examination: /home/massimo/Desktop/DATA-SETS_TO_USE/AlzYoungWeka.csv
+Time: 18/11/2014 - 14:45
